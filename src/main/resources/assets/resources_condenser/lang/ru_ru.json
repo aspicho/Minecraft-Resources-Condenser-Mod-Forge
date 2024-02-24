@@ -1,0 +1,13 @@
+{
+  "item.resources_condenser.strange_matter": "Странная Материя",
+  "item.resources_condenser.d20": "D20",
+
+  "block.resources_condenser.strange_matter_block": "Блок Странной Материи",
+  "block.resources_condenser.condenser": "Конденсатор Странной Материи",
+
+  "itemGroup.resources_condenser_tab": "Resources Condenser",
+
+  "tooltip.resources_condenser.d20.advanced": "ПКМ чтобы получить случайно число и проверить свою удачу!",
+  "tooltip.resources_condenser.d20": "Кости Судьбы!",
+  "tooltip.resources_condenser.more_info": "Shift для подробностей"
+}

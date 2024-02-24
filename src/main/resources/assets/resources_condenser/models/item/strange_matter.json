@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "resources_condenser:item/strange_matter"
+  },
+  "render_type": "minecraft:cutout"
+}

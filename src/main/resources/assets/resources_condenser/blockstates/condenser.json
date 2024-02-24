@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "resources_condenser:block/condenser"
+    },
+    "facing=south": {
+      "model": "resources_condenser:block/condenser",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "resources_condenser:block/condenser",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "resources_condenser:block/condenser",
+      "y": 90
+    }
+  }
+}

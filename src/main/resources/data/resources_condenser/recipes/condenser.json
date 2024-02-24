@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "%&%",
+    "£*£",
+    "%&%"
+  ],
+  "key": {
+    "£": {
+      "item": "minecraft:diamond_block"
+    },
+    "*": {
+      "item": "minecraft:dragon_egg"
+    },
+    "%": {
+      "item": "minecraft:blaze_rod"
+    },
+    "&": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "minecraft:copper_ingot"
+  }
+}

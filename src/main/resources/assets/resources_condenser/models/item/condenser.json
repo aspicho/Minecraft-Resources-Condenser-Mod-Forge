@@ -1,0 +1,4 @@
+{
+  "parent": "resources_condenser:block/condenser",
+  "render_type": "minecraft:cutout"
+}

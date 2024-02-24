@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "resources_condenser:item/d20"
+  },
+  "render_type": "minecraft:cutout"
+}

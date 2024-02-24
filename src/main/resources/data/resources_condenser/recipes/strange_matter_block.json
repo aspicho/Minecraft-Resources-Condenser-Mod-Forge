@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "%%%",
+    "%%%",
+    "%%%"
+  ],
+  "key": {
+    "%": {
+      "item": "resources_condenser:strange_matter"
+    }
+  },
+  "result": {
+    "item": "resources_condenser:strange_matter_block"
+  }
+}

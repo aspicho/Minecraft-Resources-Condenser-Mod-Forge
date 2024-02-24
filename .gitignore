@@ -1,0 +1,18 @@
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+run/
+src/test
+src/generated
+
+# Files from Forge MDK
+/run-data/

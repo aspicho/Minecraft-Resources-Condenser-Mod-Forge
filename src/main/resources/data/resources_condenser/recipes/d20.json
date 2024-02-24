@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " $ ",
+    "$%$",
+    " $ "
+  ],
+  "key": {
+    "%": {
+      "item": "resources_condenser:strange_matter"
+    },
+    "$": {
+      "item": "minecraft:popped_chorus_fruit"
+    }
+  },
+  "result": {
+    "item": "resources_condenser:d20"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "resources_condenser:strange_matter_block",
+    "resources_condenser:condenser"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "£%£",
+    "%£%",
+    "£%£"
+  ],
+  "key": {
+    "%": {
+      "item": "resources_condenser:strange_matter"
+    },
+    "£": {
+      "item": "resources_condenser:strange_matter_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:gold_ingot"
+  }
+}
